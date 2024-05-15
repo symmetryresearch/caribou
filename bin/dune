@@ -1,0 +1,4 @@
+(executable
+ (public_name caribou)
+ (name main)
+ (libraries caribou))
